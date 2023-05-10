@@ -1,0 +1,151 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/simulation/modelsim
+T_opt
+!s110 1683646095
+VO[eUg=97l?YmhR]8ATM?Z1
+04 6 4 work top_tb fast 0
+=1-90de8036e624-645a668e-3c7-24a0
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vbpsk_modulator
+Z2 !s110 1683646094
+!i10b 1
+!s100 iU]V^6574XK0[0GRXVPDn3
+IW:nlF[;QKChcH9NI[<g`K2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1683433264
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/bpsk_modulator.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/bpsk_modulator.v
+L0 3
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+Z5 !s108 1683646094.000000
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/bpsk_modulator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/bpsk_modulator.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 !s92 -vlog01compat -work work +incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vgold_code_generator
+R2
+!i10b 1
+!s100 [RJ8:H>Omk=1C7En9>0I71
+IY0[d>iePWN^P3N=mR]glB1
+R3
+R0
+w1683427096
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/gold_code_generator.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/gold_code_generator.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/gold_code_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/gold_code_generator.v|
+!i113 0
+R6
+R7
+R1
+vmy_rom
+R2
+!i10b 1
+!s100 NLOo`eziM<<4G6TK04?g[3
+I=EJ6URjgk=0kJSE7L]kWA0
+R3
+R0
+w1683432704
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/my_rom.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/my_rom.v
+L0 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/my_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/my_rom.v|
+!i113 0
+R6
+R7
+R1
+vsin
+R2
+!i10b 1
+!s100 E_8L:=9o2Bcl8[db[fkTS1
+If]hbR>[Y@eHhbhBl:N6L=2
+R3
+R0
+w1683560162
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/sin.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/sin.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/sin.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/sin.v|
+!i113 0
+R6
+R7
+R1
+vtop
+R2
+!i10b 1
+!s100 ;`0H_M9`9ALOak4]3agcm0
+Ic<[GfLYTh78lUdhl=[lA?2
+R3
+R0
+w1683432037
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top.v|
+!i113 0
+R6
+R7
+R1
+vtop_tb
+R2
+!i10b 1
+!s100 fIhXR6m^E0iJfPl<2G6?=3
+I<=Q0ld1C5oB?cg3FW[OCh2
+R3
+R0
+w1683554634
+8E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top_tb.v
+FE:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold|E:/FPGA/Quartus/Projects/DAI_ZUO/BPSK_Gold/top_tb.v|
+!i113 0
+R6
+R7
+R1
